@@ -1,5 +1,5 @@
 # Indian Flag 3D
-Floating Flag Shader Material
+Fluttering Flag Shader Material
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
